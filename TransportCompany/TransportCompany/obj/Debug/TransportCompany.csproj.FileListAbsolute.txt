@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\bin\Debug\TransportCompany.exe.config
+c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\bin\Debug\TransportCompany.exe
+c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\bin\Debug\TransportCompany.pdb
+c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\obj\Debug\TransportCompany.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\obj\Debug\TransportCompany.exe
+c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\obj\Debug\TransportCompany.pdb
