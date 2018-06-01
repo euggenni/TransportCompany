@@ -4,3 +4,6 @@ c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompa
 c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\obj\Debug\TransportCompany.csprojResolveAssemblyReference.cache
 c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\obj\Debug\TransportCompany.exe
 c:\users\1\documents\visual studio 2012\Projects\TransportCompany\TransportCompany\obj\Debug\TransportCompany.pdb
+C:\Users\1\Documents\GitHub\TransportCompany\TransportCompany\TransportCompany\bin\Debug\TransportCompany.exe.config
+C:\Users\1\Documents\GitHub\TransportCompany\TransportCompany\TransportCompany\obj\Debug\TransportCompany.exe
+C:\Users\1\Documents\GitHub\TransportCompany\TransportCompany\TransportCompany\obj\Debug\TransportCompany.pdb
